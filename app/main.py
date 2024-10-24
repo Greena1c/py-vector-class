@@ -69,3 +69,4 @@ class Vector:
         new_x = self.coord_x * cos_theta - self.coord_y * sin_theta
         new_y = self.coord_x * sin_theta + self.coord_y * cos_theta
         return Vector(new_x, new_y)
+# check
